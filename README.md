@@ -11,7 +11,7 @@
 
 The phrase "Front-End Web Programming" is used in different ways by different
 people. In this lesson, we're going to choose a definition of "web programming"
-and show an example that demonstrates Flatiron's "three pillars" of web
+and show an example that demonstrates Academy Xi's "three pillars" of web
 programming. We will explore each of those pillars in detail in upcoming
 lessons.
 
@@ -67,7 +67,7 @@ If all goes as it should, the entire interaction only takes a second or two.
 But even this small interaction demonstrates all the concepts of front-end web
 programming.
 
-## Flatiron's "Three Pillars of Web Programming"
+## Academy Xi's "Three Pillars of Web Programming"
 
 To help us learn web programming in three distinct phases, this curriculum is
 broken down into three essential "pillars":
@@ -94,7 +94,7 @@ web applications.
   content
 
 > **THINKING ABOUT LEARNING:** These "pillars" are not something professional
-> developers outside Flatiron School recognize. You won't go into a
+> developers outside Academy Xi recognize. You won't go into a
 > tech interview and be asked: "Name the three pillars of web programming."
 > These abstractions are a way to help learners (you!) recognize how what
 > you're learning fits into three major activity areas. That said, if an
